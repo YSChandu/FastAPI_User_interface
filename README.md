@@ -1,4 +1,4 @@
-News Sentiment Analysis Tool
+News Sentiment Analysis Tool:
 A web-based application built with Streamlit that fetches, analyzes, and summarizes news articles related to a given company, providing sentiment analysis and topic extraction. Additionally, it converts the final sentiment analysis result into Hindi audio using gTTS.
 
 Features
